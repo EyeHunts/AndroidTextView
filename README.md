@@ -1,3 +1,3 @@
 # AndroidTextView
 Android TextView
-https://tutorial.eyehunt.in/android/android-textview-settext-dynamically-example-kotlin/
+https://tutorial.eyehunts.com/android/android-textview-settext-dynamically-example-kotlin/
